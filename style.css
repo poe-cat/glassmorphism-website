@@ -172,6 +172,7 @@ header ul li a.active
     bottom: 30px;
     left: 50px;
     color: #8a2435;
+    font-size: 0.8em;
 }
 
 @media (max-width: 1200px)

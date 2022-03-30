@@ -254,6 +254,12 @@ header ul li a.active
 
 @media (max-width: 600px)
 {
+    
+    selection
+    {
+        padding: 30px 10px 10px;
+    }
+    
     .page h2
     {
         font-size: 1.5em;

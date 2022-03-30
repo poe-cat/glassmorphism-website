@@ -64,7 +64,7 @@ header .logo
     color: #8a2435;
     font-weight: 700;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 header ul
@@ -177,7 +177,7 @@ header ul li a.active
 
 @media (max-width: 992px)
 {
-    selection
+    section
     {
         padding: 50px 10px 10px;
     }
@@ -254,12 +254,15 @@ header ul li a.active
 
 @media (max-width: 600px)
 {
-    
-    selection
+
+
+    section
     {
         padding: 30px 10px 10px;
     }
-    
+
+
+
     .page h2
     {
         font-size: 1.5em;

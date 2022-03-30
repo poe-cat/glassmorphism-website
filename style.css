@@ -20,10 +20,6 @@ section
     padding: 50px;
 }
 
-
-
-
-
 .container
 {
     position: relative;
@@ -138,9 +134,14 @@ header ul li a.active
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 
+.page img
+{
+    max-width: 300px;
+}
+
 .imgBx img
 {
-    max-width: 400px;
+    max-width: 500px;
     animation: animate 5s linear infinite;
 }
 

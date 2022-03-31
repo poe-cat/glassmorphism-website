@@ -142,9 +142,12 @@ header ul li a.active
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 
-.page img
+.responsive 
 {
-    max-width: 300px;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
 }
 
 .imgBx img
